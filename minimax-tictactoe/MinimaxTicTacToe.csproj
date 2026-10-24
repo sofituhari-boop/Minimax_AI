@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <!-- C# 9 — версия языка, которую поддерживает Unity -->
+    <LangVersion>9.0</LangVersion>
+    <Nullable>disable</Nullable>
+    <RollForward>Major</RollForward>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Скрипт для Unity не собирается в консольную версию -->
+    <Compile Remove="Unity/**" />
+  </ItemGroup>
+
+</Project>

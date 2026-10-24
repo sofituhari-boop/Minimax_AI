@@ -1,0 +1,14 @@
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/bin/Debug/net7.0/MinimaxTicTacToe
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/bin/Debug/net7.0/MinimaxTicTacToe.deps.json
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/bin/Debug/net7.0/MinimaxTicTacToe.runtimeconfig.json
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/bin/Debug/net7.0/MinimaxTicTacToe.dll
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/bin/Debug/net7.0/MinimaxTicTacToe.pdb
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/obj/Debug/net7.0/MinimaxTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/obj/Debug/net7.0/MinimaxTicTacToe.AssemblyInfoInputs.cache
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/obj/Debug/net7.0/MinimaxTicTacToe.AssemblyInfo.cs
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/obj/Debug/net7.0/MinimaxTicTacToe.csproj.CoreCompileInputs.cache
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/obj/Debug/net7.0/MinimaxTicTacToe.dll
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/obj/Debug/net7.0/refint/MinimaxTicTacToe.dll
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/obj/Debug/net7.0/MinimaxTicTacToe.pdb
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/obj/Debug/net7.0/MinimaxTicTacToe.genruntimeconfig.cache
+/Users/sofia/Desktop/уни/AI/minimax-tictactoe/obj/Debug/net7.0/ref/MinimaxTicTacToe.dll
